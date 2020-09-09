@@ -1,7 +1,7 @@
 # 王璇
 183-1542-2520 丨wangxuan0163@163.com 丨青岛 </br>
 微信: DavidJohnson321 丨https://github.com/Aiming-future/Projects-For-Pratice  </br>
-### 专业技能</br>
+## 专业技能</br>
 1.掌握JavaEE 相关知识，包括JDBC，JSP，XML，Servlet等核心技术。</br>
 2.熟练使用SSM（Spring+SpringMVC/SpringBoot+Mybatis(Plus))框架进行应用开发。</br>
 3.熟练使用Mysql，了解Redis缓存数据库，了解SQLServer数据库。</br>
@@ -11,9 +11,9 @@
 7.熟练使用Tomcat服务器进行Web应用的搭建和发布。</br>
 8.熟练使用Nginx进行反向代理，负载均衡，前后端分离等。</br>
 9.掌握hadoop分布式搭建以及flume, hive, sqoop等数据处理工具。</br>
-10.了解jquery,vue，掌握ajax, axios进行前端数据传输。</br>
+10.了解jquery,vue，掌握ajax, axios进行前端数据传输。</br></br>
 ## 开源项目及作品</br>
-软件工程专业相关工作数据统计系统</br>
+### 软件工程专业相关工作数据统计系统</br>
 独立完成</br>
 2020年07月 - 2020年07月</br>
 青岛</br>
@@ -32,7 +32,7 @@ IDE环境：IdeaIntelliJ2019</br>
 应用服务器：Tomcat 8.5</br>
 负载均衡：Nginx</br>
 大数据环境：hadoop伪分布式\flume1.9\hive3.x\sqoop2</br>
-试题库管理系统</br>
+### 试题库管理系统</br>
 独立完成</br>
 2019年07月 - 2019年07月</br>
 青岛</br>
@@ -52,8 +52,8 @@ IDE环境：IdeaIntelliJ2019</br>
 (3).试卷管理：</br>
 ①.课程负责人可以向系统提出要求（按章节、知识点与难度设定习题数目）。</br>
 生成小测验，并可以对测验进行管理。</br>
-②.系统通过生成的试卷，给出试卷答案。</br>
-教育经历</br>
+②.系统通过生成的试卷，给出试卷答案。</br></br>
+## 教育经历</br>
 中国石油大学（华东）</br>
 软件工程 本科 计算机与科学技术</br>
 2017年09月 - 2021年03月</br>
