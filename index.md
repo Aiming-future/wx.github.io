@@ -1,5 +1,5 @@
-王璇
-183-1542-2520 丨wangxuan0163@163.com 丨青岛
+#　王璇
+--　183-1542-2520 丨wangxuan0163@163.com 丨青岛
 微信: DavidJohnson321 丨https://github.com/Aiming-future/Projects-For-Pratice
 专业技能
 1.掌握JavaEE 相关知识，包括JDBC，JSP，XML，Servlet等核心技术。
