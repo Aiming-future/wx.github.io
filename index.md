@@ -11,7 +11,7 @@
 7.熟练使用Tomcat服务器进行Web应用的搭建和发布。</br>
 8.熟练使用Nginx进行反向代理，负载均衡，前后端分离等。</br>
 9.掌握hadoop分布式搭建以及flume, hive, sqoop等数据处理工具。</br>
-10.了解jquery,vue，掌握ajax, axios进行前端数据传输。</br></br>
+10.了解jquery,vue，掌握ajax, axios进行前端数据传输。</br>
 ## 开源项目及作品</br>
 软件工程专业相关工作数据统计系统</br>
 独立完成</br>
