@@ -1,8 +1,8 @@
 # 王璇
-183-1542-2520 丨wangxuan0163@163.com 丨青岛 </br>
-微信: DavidJohnson321 丨https://github.com/Aiming-future/Projects-For-Pratice  </br>
+#### 183-1542-2520 丨wangxuan0163@163.com 丨青岛 </br>
+##### 微信: DavidJohnson321 丨https://github.com/Aiming-future/Projects-For-Pratice  </br>
 ## 专业技能</br>
-<br>1.掌握JavaEE 相关知识，包括JDBC，JSP，XML，Servlet等核心技术。</br>
+1.掌握JavaEE 相关知识，包括JDBC，JSP，XML，Servlet等核心技术。</br>
 2.熟练使用SSM（Spring+SpringMVC/SpringBoot+Mybatis(Plus))框架进行应用开发。</br>
 3.熟练使用Mysql，了解Redis缓存数据库，了解SQLServer数据库。</br>
 4.熟练掌握Maven构建工具以及git版本控制工具。</br>
